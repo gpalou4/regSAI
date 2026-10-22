@@ -1,4 +1,4 @@
-# regAI
+# regSAI
 
 This is the repository for the manuscript "_Copy number-independent allelic imbalance in mRNA is selected in cancer and has prognostic relevance_"
 
